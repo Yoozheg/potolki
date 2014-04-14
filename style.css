@@ -42,7 +42,14 @@ main{margin:0 auto;width:998px;position:relative}
 #projects img{margin-left:35px;padding-top:50px}
 #projects p{background:url(img/skobka.png) no-repeat bottom center;padding-top:71px}
 
-#how{}
+#how{background-color:#ff9524 ;color:white;}
+#how main{height:197px;}
+#how p{display:inline-block;border-left:2px solid white;height:197px;vertical-align:top;padding-left:10px;font:17px "Trebuchet MS"}
+#how p.b1{width:230px;border-left:none;}
+#how p.b2{width:230px;}
+#how p.b3{width:230px;}
+#how p.b4{width:237px;}
+#how p span{display:block;font:bold 108px "Trebuchet MS";margin:-8px 0}
 
 #about{}
 
