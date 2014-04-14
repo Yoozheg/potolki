@@ -37,7 +37,10 @@ main{margin:0 auto;width:998px;position:relative}
 #price ol li button{cursor:pointer;background:url(img/price_knopka.png) no-repeat top center;text-align:center;font:bold 19px "Trebuchet MS";vertical-align:center;text-transform:uppercase;color:white;border:none;width:127px;line-height:45px;padding-bottom:9px;margin-left:150px;margin-top:45px}
 
 
-#projects{}
+#projects{background:url(img/fon6.jpg) no-repeat top center; height:1282px;}
+#projects h2{text-align:center;color:white;font:bold 62px "Trebuchet MS";text-transform:uppercase;text-shadow:1px 1px 2px rgba(0, 0, 0, .6);padding-top:60px}
+#projects img{margin-left:35px;padding-top:50px}
+#projects p{background:url(img/skobka.png) no-repeat bottom center;padding-top:71px}
 
 #how{}
 
