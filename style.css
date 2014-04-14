@@ -14,6 +14,30 @@ header,main,footer,nav,aside,section,article,figure,figcaption{display:block}
 section{clear:both}
 main{margin:0 auto;width:998px;position:relative}
 
+#header{}
+
+#form_up{}
+
+#problems{}
+
+#why{}
+
+#quality{}
+
+#price{}
+
+#projects{}
+
+#how{}
+
+#about{}
+
+#sertificats{}
+
+#formn_down{}
+
+#footer{}
+
 
 #splash{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.8);color:white;text-shadow:0 0 1px #666;display:none;z-index:10}
 #splash main{text-align:center;top:150px}
