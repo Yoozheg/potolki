@@ -69,7 +69,9 @@ margin-left: -108px;}
 
 #formn_down{}
 
-#footer{}
+footer{text-align:center;color:#ff9524;font:bold 50px "Trebuchet MS";text-shadow:1px 1px 2px rgba(0, 0, 0, .6);}
+footer p{padding:15px 5px}
+footer p.right{font-size:40px;text-align:right}
 
 
 #splash{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.8);color:white;text-shadow:0 0 1px #666;display:none;z-index:10}
