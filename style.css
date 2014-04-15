@@ -14,15 +14,45 @@ header,main,footer,nav,aside,section,article,figure,figcaption{display:block}
 section{clear:both}
 main{margin:0 auto;width:998px;position:relative}
 
-#header{}
+header{}
+header main{text-align:right;background:url('img/logo.png') left center no-repeat;padding-top:10px;padding-bottom:30px;}
+header h4{color:black;font:bold 24px "Trebuchet MS";}
+header p.button{color:#ff9524;font:17px "Trebuchet MS";text-decoration:underline;}
 
 #form_up{}
 
-#problems{}
+#problems{background:url('img/fon2.jpg') center top no-repeat;padding-bottom:40px;}
+#problems main{text-align:center;}
+#problems  h4{color:white;font:bold 34px "Trebuchet MS";text-transform:uppercase;padding-top:40px;}
+#problems h4 span{color:#ff9524;}
+#problems div{padding-top:40px;}
+#problems article{display:inline-block;background:url('img/galka.png') left top no-repeat;text-align:left;font:16px "Trebuchet MS";color:white;padding-left:40px;}
+#problems article.left{margin-left:100px;}
 
-#why{}
+#why{padding-bottom:20px;background:#f2e5d9;}
+#why main{text-align:center;}
+#why h3{color:#ff9524;font:bold 62px "Trebuchet MS";text-transform:uppercase;padding:30px 0;text-shadow: 1px 1px 1px black;}
+#why div{}
+#why article{display:inline-block;width:210px;padding:180px 17px 20px 17px;}
+#why h4{color:#ff9524;font:bold 18px "Trebuchet MS";text-transform:uppercase;}
+#why p{color:#707070;font:15px "Trebuchet MS";}
+#why .f1{background:url('img/f1.png') center top no-repeat;}
+#why .f2{background:url('img/f2.png') center top no-repeat;}
+#why .f3{background:url('img/f3.png') center top no-repeat;}
+#why .f4{background:url('img/f4.png') center top no-repeat;}
+#why .f5{background:url('img/f5.png') center top no-repeat;}
+#why .f6{background:url('img/f6.png') center top no-repeat;}
+#why .f7{background:url('img/f7.png') center top no-repeat;}
+#why .f8{background:url('img/f8.png') center top no-repeat;}
 
-#quality{}
+#quality{background:url('img/fon2.jpg') center top no-repeat;padding-bottom:40px;}
+#quality main{text-align:center;}
+#quality  h4{color:white;font:bold 34px/40px "Trebuchet MS";text-transform:uppercase;padding:40px 0;}
+#quality h4 span{color:#ff9524;font-size:62px;}
+#quality div{padding-bottom:40px;}
+#quality article{display:inline-block;background:url('img/galka.png') left top no-repeat;text-align:left;font:16px "Trebuchet MS";color:white;padding-left:40px;}
+#quality article.left{margin-left:100px;}
+#quality article.ololo{margin-left:-120px;}
 
 #price{background-color:#f5f5f5;padding-bottom:20px;}
 #price h2{text-align:center;color:#ff9524;font:bold 62px "Trebuchet MS";text-transform:uppercase;text-shadow:1px 1px 2px rgba(0, 0, 0, .6);padding:30px 0}
@@ -70,7 +100,7 @@ margin-left: -108px;}
 #formn_down{}
 
 footer{text-align:center;color:#ff9524;font:bold 50px "Trebuchet MS";text-shadow:1px 1px 2px rgba(0, 0, 0, .6);}
-footer p{padding:15px 5px}
+footer p{padding:15px 5px;text-shadow: 1px 1px 2px black;}
 footer p.right{font-size:40px;text-align:right}
 
 
