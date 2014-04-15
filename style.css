@@ -62,7 +62,10 @@ margin-left: -108px;}
 #about div h3{font-size:19px;text-align:center;padding:10px 0}
 #about div p{text-align:center;font:16px "Trebuchet MS";}
 
-#sertificats{}
+#sertificats{background-color:#f3f3f3}
+#sertificats div{background:url(img/certs.jpg) no-repeat top center;height:480px}
+#sertificats h2{text-align:center;color:#ff9524;font:bold 62px "Trebuchet MS";text-transform:uppercase;text-shadow:1px 1px 2px rgba(0, 0, 0, .6);padding:50px 0;}
+#sertificats button{cursor:pointer;background:url(img/price_knopka.png) no-repeat top center;text-align:center;font:bold 16px "Trebuchet MS";vertical-align:center;text-transform:uppercase;color:white;border:none;width:127px;line-height:45px;padding-bottom:9px;margin:-80px 95px 30px 100px;}
 
 #formn_down{}
 
