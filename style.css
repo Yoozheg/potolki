@@ -51,7 +51,16 @@ main{margin:0 auto;width:998px;position:relative}
 #how p.b4{width:237px;}
 #how p span{display:block;font:bold 108px "Trebuchet MS";margin:-8px 0}
 
-#about{}
+#about{background:url(img/fon4.jpg)no-repeat center top;height:706px;color:white;}
+#about h2{text-align:center;color:white;font:bold 62px "Trebuchet MS";text-transform:uppercase;text-shadow:1px 1px 2px rgba(0, 0, 0, .6);padding:40px 0;}
+#about div{display:inline-block;position:relative;width:400px;padding:0 45px;vertical-align:top;margin-top:143px}
+#about div img{position:relative;
+left: 50%; 
+top: 50%; 
+margin-top: -138px; 
+margin-left: -108px;}
+#about div h3{font-size:19px;text-align:center;padding:10px 0}
+#about div p{text-align:center;font:16px "Trebuchet MS";}
 
 #sertificats{}
 
